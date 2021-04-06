@@ -60,7 +60,7 @@ global.config = {
   // use username `tooangels` and password `tooSecretPassword` at https://screepspl.us/grafana
   stats: {
     screepsPlusEnabled: true,
-    screepsPlusToken: 'eyJrIjoiQmI2bURWYzZSNnlveUpUcFZ6UWV4RVpHd2ZETTlOQ0kiLCJuIjoibmFvZG9uZ2JhbmFuYSIsImlkIjoxMzI5NzAxNH0=',
+    screepsPlusToken: 'eyJrIjoiaGlaNWp2MFltenY4N213RWNCdXdZaGNDU0hlUzdJM0MiLCJuIjoidHR0dHR0IiwiaWQiOjEzMjk3MDE0fQ==',
     enabled: true,
     summary: true,
   },

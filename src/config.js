@@ -41,7 +41,7 @@ global.config = {
   },
 
   info: {
-    signController: true,
+    signController: false,
     signText: 'Fully automated open source bot: http://tooangel.github.io/screeps/',
     resignInterval: 500,
   },

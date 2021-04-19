@@ -42,7 +42,7 @@ global.config = {
 
   info: {
     signController: true,
-    signText: 'Fully automated open source bot: https://github.com/YueNing/screeps/',
+    signText: 'Fully automated bot',
     resignInterval: 500,
   },
 
